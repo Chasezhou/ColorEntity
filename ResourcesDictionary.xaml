@@ -1,0 +1,315 @@
+  <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">  
+
+    <Color x:Key ="red">#FF5640</Color>
+    <Color x:Key="green">#48FF28</Color>
+    <Color x:Key="transparent">#00000000</Color>
+    <Color x:Key="md__defaultBackground">#FF555555</Color>
+
+    <Color x:Key="white">#FFFFFF</Color>
+    <Color x:Key="msgdtwhite">#666666</Color>
+    <Color x:Key="mainV2background">#F6F6F6</Color>
+    <!-- 白色 -->
+    <Color x:Key="ivory">#FFFFF0</Color>
+    <!-- 象牙色 -->
+    <Color x:Key="lightyellow">#FFFFE0</Color>
+    <!-- 亮黄色 -->
+    <Color x:Key="yellow">#FFFF00</Color>
+    <!-- 黄色 -->
+    <Color x:Key="snow">#FFFAFA</Color>
+    <!-- 雪白色 -->
+    <Color x:Key="floralwhite">#FFFAF0</Color>
+    <!-- 花白色 -->
+    <Color x:Key="lemonchiffon">#FFFACD</Color>
+    <!-- 柠檬绸色 -->
+    <Color x:Key="cornsilk">#FFF8DC</Color>
+    <!-- 米绸色 -->
+    <Color x:Key="seashell">#FFF5EE</Color>
+    <!-- 海贝色 -->
+    <Color x:Key="lavenderblush">#FFF0F5</Color>
+    <!-- 淡紫红 -->
+    <Color x:Key="papayawhip">#FFEFD5</Color>
+    <!-- 番木色 -->
+    <Color x:Key="blanchedalmond">#FFEBCD</Color>
+    <!-- 白杏色 -->
+    <Color x:Key="mistyrose">#FFE4E1</Color>
+    <!-- 浅玫瑰色 -->
+    <Color x:Key="bisque">#FFE4C4</Color>
+    <!-- 桔黄色 -->
+    <Color x:Key="moccasin">#FFE4B5</Color>
+    <!-- 鹿皮色 -->
+    <Color x:Key="navajowhite">#FFDEAD</Color>
+    <!-- 纳瓦白 -->
+    <Color x:Key="peachpuff">#FFDAB9</Color>
+    <!-- 桃色 -->
+    <Color x:Key="gold">#FFD700</Color>
+    <!-- 金色 -->
+    <Color x:Key="pink">#FFC0CB</Color>
+    <!-- 粉红色 -->
+    <Color x:Key="lightpink">#FFB6C1</Color>
+    <!-- 亮粉红色 -->
+    <Color x:Key="orange">#FFA500</Color>
+    <!-- 橙色 -->
+    <Color x:Key="lightsalmon">#FFA07A</Color>
+    <!-- 亮肉色 -->
+    <Color x:Key="darkorange">#FF8C00</Color>
+    <!-- 暗桔黄色 -->
+    <Color x:Key="coral">#FF7F50</Color>
+    <!-- 珊瑚色 -->
+    <Color x:Key="hotpink">#FF69B4</Color>
+    <!-- 热粉红色 -->
+    <Color x:Key="tomato">#FF6347</Color>
+    <!-- 西红柿色 -->
+    <Color x:Key="orangered">#FF4500</Color>
+    <!-- 红橙色 -->
+    <Color x:Key="deeppink">#FF1493</Color>
+    <!-- 深粉红色 -->
+    <Color x:Key="fuchsia">#FF00FF</Color>
+    <!-- 紫红色 -->
+    <Color x:Key="magenta">#FF00FF</Color>
+    <!-- 红紫色 -->
+    <Color x:Key="red1">#FF0000</Color>
+    <!-- 红色 -->
+    <Color x:Key="oldlace">#FDF5E6</Color>
+    <!-- 老花色 -->
+    <Color x:Key="lightgoldenrodyellow">#FAFAD2</Color>
+    <!-- 亮金黄色 -->
+    <Color x:Key="linen">#FAF0E6</Color>
+    <!-- 亚麻色 -->
+    <Color x:Key="antiquewhite">#FAEBD7</Color>
+    <!-- 古董白 -->
+    <Color x:Key="salmon">#FA8072</Color>
+    <!-- 鲜肉色 -->
+    <Color x:Key="ghostwhite">#f4f4f6</Color>
+    <!-- 幽灵白 -->
+    <Color x:Key="mintcream">#F5FFFA</Color>
+    <!-- 薄荷色 -->
+    <Color x:Key="whitesmoke">#F5F5F5</Color>
+    <!-- 烟白色 -->
+    <Color x:Key="beige">#F5F5DC</Color>
+    <!-- 米色 -->
+    <Color x:Key="wheat">#F5DEB3</Color>
+    <!-- 浅黄色 -->
+    <Color x:Key="sandybrown">#F4A460</Color>
+    <!-- 沙褐色 -->
+    <Color x:Key="azure">#F0FFFF</Color>
+    <!-- 天蓝色 -->
+    <Color x:Key="honeydew">#F0FFF0</Color>
+    <!-- 蜜色 -->
+    <Color x:Key="aliceblue">#F0F8FF</Color>
+    <!-- 艾利斯兰 -->
+    <Color x:Key="khaki">#F0E68C</Color>
+    <!-- 黄褐色 -->
+    <Color x:Key="lightcoral">#F08080</Color>
+    <!-- 亮珊瑚色 -->
+    <Color x:Key="palegoldenrod">#EEE8AA</Color>
+    <!-- 苍麒麟色 -->
+    <Color x:Key="violet">#EE82EE</Color>
+    <!-- 紫罗兰色 -->
+    <Color x:Key="darksalmon">#E9967A</Color>
+    <!-- 暗肉色 -->
+    <Color x:Key="lavender">#E6E6FA</Color>
+    <!-- 淡紫色 -->
+    <Color x:Key="lightcyan">#E0FFFF</Color>
+    <!-- 亮青色 -->
+    <Color x:Key="burlywood">#DEB887</Color>
+    <!-- 实木色 -->
+    <Color x:Key="plum">#DDA0DD</Color>
+    <!-- 灰色 -->
+    <Color x:Key="msgblack">#DDDDDD</Color>
+    <!-- 洋李色 -->
+    <Color x:Key="gainsboro">#DCDCDC</Color>
+    <!-- 淡灰色 -->
+    <Color x:Key="crimson">#DC143C</Color>
+    <!-- 暗深红色 -->
+    <Color x:Key="palevioletred">#DB7093</Color>
+    <!-- 苍紫罗兰色 -->
+    <Color x:Key="goldenrod">#DAA520</Color>
+    <!-- 金麒麟色 -->
+    <Color x:Key="orchid">#DA70D6</Color>
+    <!-- 淡紫色 -->
+    <Color x:Key="thistle">#D8BFD8</Color>
+    <!-- 蓟色 -->
+    <Color x:Key="lightgray">#D3D3D3</Color>
+    <!-- 亮灰色 -->
+    <Color x:Key="lightgrey">#D3D3D3</Color>
+    <!-- 亮灰色 -->
+    <Color x:Key="tan">#D2B48C</Color>
+
+    <Color x:Key="thingray">#EDEDED</Color>
+    <!-- 茶色 -->
+    <Color x:Key="chocolate">#D2691E</Color>
+    <!-- 巧可力色 -->
+    <Color x:Key="peru">#CD853F</Color>
+    <!-- 秘鲁色 -->
+    <Color x:Key="indianred">#CD5C5C</Color>
+    <!-- 印第安红 -->
+    <Color x:Key="mediumvioletred">#C71585</Color>
+    <!-- 中紫罗兰色 -->
+    <Color x:Key="silver">#C0C0C0</Color>
+    <!-- 银色 -->
+    <Color x:Key="darkkhaki">#BDB76B</Color>
+    <!-- 暗黄褐色 -->
+    <Color x:Key="rosybrown">#BC8F8F</Color>
+    <!-- 褐玫瑰红 -->
+    <Color x:Key="mediumorchid">#BA55D3</Color>
+    <!-- 中粉紫色 -->
+    <Color x:Key="darkgoldenrod">#B8860B</Color>
+    <!-- 暗金黄色 -->
+    <Color x:Key="firebrick">#B22222</Color>
+    <!-- 火砖色 -->
+    <Color x:Key="powderblue">#B0E0E6</Color>
+    <!-- 粉蓝色 -->
+    <Color x:Key="lightsteelblue">#B0C4DE</Color>
+    <!-- 亮钢兰色 -->
+    <Color x:Key="paleturquoise">#AFEEEE</Color>
+    <!-- 苍宝石绿 -->
+    <Color x:Key="greenyellow">#ADFF2F</Color>
+    <!-- 黄绿色 -->
+    <Color x:Key="lightblue">#ADD8E6</Color>
+    <!-- 亮蓝色 -->
+    <Color x:Key="darkgray">#A9A9A9</Color>
+    <!-- 暗灰色 -->
+    <Color x:Key="darkgrey">#A9A9A9</Color>
+    <!-- 暗灰色 -->
+    <Color x:Key="brown">#A52A2A</Color>
+    <!-- 褐色 -->
+    <Color x:Key="sienna">#A0522D</Color>
+    <!-- 赭色 -->
+    <Color x:Key="darkorchid">#9932CC</Color>
+    <!-- 暗紫色 -->
+    <Color x:Key="palegreen">#98FB98</Color>
+    <!-- 苍绿色 -->
+    <Color x:Key="darkviolet">#9400D3</Color>
+    <!-- 暗紫罗兰色 -->
+    <Color x:Key="mediumpurple">#9370DB</Color>
+    <!-- 中紫色 -->
+    <Color x:Key="lightgreen">#90EE90</Color>
+    <!-- 亮绿色 -->
+    <Color x:Key="darkseagreen">#8FBC8F</Color>
+    <!-- 暗海兰色 -->
+    <Color x:Key="saddlebrown">#8B4513</Color>
+    <!-- 重褐色 -->
+    <Color x:Key="darkmagenta">#8B008B</Color>
+    <!-- 暗洋红 -->
+    <Color x:Key="darkred">#8B0000</Color>
+    <!-- 暗红色 -->
+    <Color x:Key="blueviolet">#8A2BE2</Color>
+    <!-- 紫罗兰蓝色 -->
+    <Color x:Key="lightskyblue">#87CEFA</Color>
+    <!-- 亮天蓝色 -->
+    <Color x:Key="skyblue">#87CEEB</Color>
+    <!-- 天蓝色 -->
+    <Color x:Key="gray">#808080</Color>
+    <!-- 灰色 -->
+    <Color x:Key="grey">#808080</Color>
+    <!-- 灰色 -->
+    <Color x:Key="olive">#808000</Color>
+    <!-- 橄榄色 -->
+    <Color x:Key="purple">#800080</Color>
+    <!-- 紫色 -->
+    <Color x:Key="maroon">#800000</Color>
+    <!-- 粟色 -->
+    <Color x:Key="aquamarine">#7FFFD4</Color>
+    <!-- 碧绿色 -->
+    <Color x:Key="chartreuse">#7FFF00</Color>
+    <!-- 黄绿色 -->
+    <Color x:Key="lawngreen">#7CFC00</Color>
+    <!-- 草绿色 -->
+    <Color x:Key="mediumslateblue">#7B68EE</Color>
+    <!-- 中暗蓝色 -->
+    <Color x:Key="lightslategray">#778899</Color>
+    <!-- 亮蓝灰 -->
+    <Color x:Key="lightslategrey">#778899</Color>
+    <!-- 亮蓝灰 -->
+    <Color x:Key="slategray">#708090</Color>
+    <!-- 灰石色 -->
+    <Color x:Key="slategrey">#708090</Color>
+    <!-- 灰石色 -->
+    <Color x:Key="olivedrab">#6B8E23</Color>
+    <!-- 深绿褐色 -->
+    <Color x:Key="slateblue">#6A5ACD</Color>
+    <!-- 石蓝色 -->
+    <Color x:Key="dimgray">#696969</Color>
+    <!-- 暗灰色 -->
+
+    <Color x:Key="mediumaquamarine">#66CDAA</Color>
+    <!-- 中绿色 -->
+    <Color x:Key="cornflowerblue">#6495ED</Color>
+    <!-- 菊兰色 -->
+    <Color x:Key="cadetblue">#5F9EA0</Color>
+    <!-- 军兰色 -->
+    <Color x:Key="darkolivegreen">#556B2F</Color>
+    <!-- 暗橄榄绿 -->
+    <Color x:Key="indigo">#4B0082</Color>
+    <!-- 靛青色 -->
+    <Color x:Key="mediumturquoise">#48D1CC</Color>
+    <!-- 中绿宝石 -->
+    <Color x:Key="darkslateblue">#483D8B</Color>
+    <!-- 暗灰蓝色 -->
+    <Color x:Key="steelblue">#4682B4</Color>
+    <!-- 钢兰色 -->
+    <Color x:Key="royalblue">#4169E1</Color>
+    <!-- 皇家蓝 -->
+    <Color x:Key="turquoise">#40E0D0</Color>
+    <!-- 青绿色 -->
+    <Color x:Key="mediumseagreen">#3CB371</Color>
+    <!-- 中海蓝 -->
+    <Color x:Key="limegreen">#32CD32</Color>
+    <!-- 橙绿色 -->
+    <Color x:Key="darkslategray">#2F4F4F</Color>
+    <!-- 暗瓦灰色 -->
+    <Color x:Key="darkslategrey">#2F4F4F</Color>
+    <!-- 暗瓦灰色 -->
+    <Color x:Key="seagreen">#2E8B57</Color>
+    <!-- 海绿色 -->
+    <Color x:Key="forestgreen">#228B22</Color>
+    <!-- 森林绿 -->
+    <Color x:Key="lightseagreen">#20B2AA</Color>
+    <!-- 亮海蓝色 -->
+    <Color x:Key="dodgerblue">#1E90FF</Color>
+    <!-- 闪兰色 -->
+    <Color x:Key="midnightblue">#191970</Color>
+    <!-- 中灰兰色 -->
+    <Color x:Key="aqua">#00FFFF</Color>
+    <!-- 浅绿色 -->
+    <Color x:Key="cyan">#00FFFF</Color>
+    <!-- 青色 -->
+    <Color x:Key="springgreen">#00FF7F</Color>
+    <!-- 春绿色 -->
+    <Color x:Key="lime">#00FF00</Color>
+    <!-- 酸橙色 -->
+    <Color x:Key="mediumspringgreen">#00FA9A</Color>
+    <!-- 中春绿色 -->
+    <Color x:Key="darkturquoise">#00CED1</Color>
+    <!-- 暗宝石绿 -->
+    <Color x:Key="deepskyblue">#00BFFF</Color>
+    <!-- 深天蓝色 -->
+    <Color x:Key="darkcyan">#008B8B</Color>
+    <!-- 暗青色 -->
+    <Color x:Key="teal">#008080</Color>
+    <!-- 水鸭色 -->
+    <Color x:Key="green1">#008000</Color>
+    <!-- 绿色 -->
+    <Color x:Key="darkgreen">#006400</Color>
+    <!-- 暗绿色 -->
+    <Color x:Key="blue">#0000FF</Color>
+    <!-- 蓝色 -->
+    <Color x:Key="mediumblue">#0000CD</Color>
+    <!-- 中兰色 -->
+    <Color x:Key="darkblue">#00008B</Color>
+    <!-- 暗蓝色 -->
+    <Color x:Key="navy">#000080</Color>
+    <!-- 海军色 -->
+    <Color x:Key="black">#000000</Color>
+    <Color x:Key="black1">#909090</Color>
+    <!--登录背景色-->
+    <Color x:Key="loginbg">#EDEBEC</Color>
+    <!-- 登陆 按钮背景色-->
+    <Color x:Key="loginbtbg">#00C198</Color>
+    <Color x:Key="listselect">#56ccc8</Color>
+    <Color x:Key="loginbackcolor">#faf8f9</Color>
+    <Color x:Key="bluebtn">#59b1f6</Color>
+    <Color x:Key="payunselect">#B1B1B1</Color>
+    <Color x:Key="itemColor">#F5F5F5</Color>
+    </ResourceDictionary>
